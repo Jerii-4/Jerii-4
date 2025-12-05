@@ -10,35 +10,29 @@ Passionate about performance, DX, and modern JavaScript ecosystems.
 
 ### **Languages & Core**
 <p>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"/>
-   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+
+
+
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React"/>
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Native"/>
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"/>
+
+
+
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
+
+
+
+  <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+
 </p>
-
-### **Frontend**
-<p>
-
-</p>
-
-### **Backend & Databases**
-<p>
- 
-</p>
-
-### **Tools**
-<p>
-  
-</p>
-
 ---
 
 ## ⚡ Featured Projects
@@ -53,25 +47,31 @@ Built with React + Node for high performance and clean UX.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contributions
+This uses a public service to render the classic green contribution heatmap:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jerii-4&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerii-4&layout=compact&theme=tokyonight" height="160px"/>
+<img alt="Contributions" src="https://ghchart.rshah.org/Jerii-4" />
+
 </p>
 
+
+
 ---
+
+
 
 ## 🧩 What I’m Learning
 - Advanced React Native patterns  
 - Scalable backend systems with Node.js  
-- Cloud deployment & automation  
+- Cloud deployment & automation
 
 ---
 
 ## 🌐 Connect With Me
-- Email: *add your email*  
-- LinkedIn: *add your link*  
-- Portfolio (coming soon)
+- Email: *jerinbtc17@gmail.com*  
+- LinkedIn: *linkedin.com/in/jerin-thomas7*  
+- Portfolio: *https://jerii-4.github.io/jerin-portfolio/*
 
 ---
 
