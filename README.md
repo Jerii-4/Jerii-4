@@ -4,7 +4,7 @@
 I build clean, scalable web & mobile applications — from interactive UIs to production-ready backend systems.  
 Passionate about performance, DX, and modern JavaScript ecosystems.
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -25,7 +25,7 @@ Passionate about performance, DX, and modern JavaScript ecosystems.
   <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
 
 </p>
----
+
 
 ## ⚡ Featured Projects
 
@@ -39,17 +39,7 @@ Built with React.js for high performance and clean UX.
 
 ---
 
-## 📈 Contributions
 
-
-<p align="center">
-<img alt="Contributions" src="https://ghchart.rshah.org/Jerii-4" />
-
-</p>
-
-
-
----
 
 
 
