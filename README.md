@@ -59,12 +59,6 @@ Built using Tauri (Rust), React, Zustand, SQLite.
 ---
 
 
-## 📈 Contributions 
-
-<img alt="Contributions" src="https://ghchart.rshah.org/Jerii-4" />
-
-
----
 
 ## 📫 Contact
 - **Email:** jerinbtc17@gmail.com  
